@@ -1,0 +1,57 @@
+.border{
+    border: solid 1px blue;
+    margin-right: 50px;
+    margin-left: 50px;
+    min-width: 500px;
+    background-color:lightblue;
+    height: 50px;
+    
+}
+.common {
+    margin-right: 100px;
+    margin-left: 100px;
+    min-width: 300px;
+}
+.navigation {
+    height: 150px;
+    margin-top: 20px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+}
+.footer {
+    text-align: center;
+    border-top: solid 2px grey ;
+    height: 50px;
+    color: black;
+    border: solid 1px blue;
+    background-color: lightblue;
+
+   
+}
+.main {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.main p {
+    background-color: salmon;
+    margin: 10px;
+    padding: 5px;
+}
+.right{
+    text-align: right;
+}
+.background{
+    background-color: beige;
+
+}
+.tableau{
+    font-size:larger;
+    text-align: center;
+    color: darkblue;
+}
+.text{
+    font-size: larger;
+}
+.left{
+    text-align: left;
+}
